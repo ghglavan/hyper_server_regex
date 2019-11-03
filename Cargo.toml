@@ -1,0 +1,13 @@
+[package]
+name = "hyper_server_regex"
+version = "0.1.0"
+authors = ["ghglavan <george.glavan27@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+[dependencies]
+slab = "0.4"
+futures = "0.1"
+hyper = "0.12"
+lazy_static = "1.0"
+regex = "1.0"
